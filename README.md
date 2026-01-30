@@ -31,22 +31,7 @@ This repository serves as a comprehensive resource for learning and implementing
 
 - [SOLID Principles Overview](./SOLID%20PRINCIPLES)
 
-## Getting Started
-
-To explore the case studies, design patterns, and SOLID principles implementations, follow these steps:
-
-1. Clone this repository to your local machine:
-
-    ```bash
-    git clone https://github.com/GunalanD95/system-design-python.git
-    ```
-
-2. Navigate to the desired section, such as "CASE STUDIES," "DESIGN PATTERNS," or "SOLID PRINCIPLES."
-
 3. Explore the provided examples and implementations.
-
-
-
 
 ## License
 
